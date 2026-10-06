@@ -1,0 +1,12 @@
+{
+  "seed": 42,
+  "epochs": 40,
+  "batch_size": 4,
+  "patch_size": 128,
+  "learning_rate": 0.001,
+  "width": 8,
+  "depth": 3,
+  "device": "auto",
+  "workers": 0,
+  "cache_images": true
+}

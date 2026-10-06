@@ -1,0 +1,6 @@
+{
+  "challenge_id": "elec8109-restoration-v2",
+  "image_size": 384,
+  "max_model_elements": 300000,
+  "opset": 18
+}

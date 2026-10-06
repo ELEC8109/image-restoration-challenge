@@ -1,0 +1,6 @@
+numpy
+Pillow
+torch
+onnx
+onnxruntime
+matplotlib
